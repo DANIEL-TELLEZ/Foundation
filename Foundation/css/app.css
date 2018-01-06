@@ -1,0 +1,53 @@
+
+body{
+	background-image: url(https://k24.kn3.net/ACACC66F1.jpg);
+background-repeat:}
+
+.fondodiv{
+	background: #F9E79F  ;
+}
+
+a{
+	color: #000000;
+}
+
+
+img{
+	margin-top: 20px;
+	width: 100%;
+	height: 150px;
+}
+
+.imgav{
+	width: 30px;
+	height: 30px;
+}
+
+.imgmr{
+	margin-top: 20px;
+	width: 100%;
+	height: 300px;
+
+}
+
+#titu{
+	margin-top: 10px;
+}
+
+#index{
+	background-image: url(img_1jpg);
+background-repeat: no-repeat;
+}
+
+.pru{
+	width: 100%;	
+	background-color: #2E4053   ;
+}
+
+.cursive{
+	font-family: 'Abril Fatface', cursive;
+}
+
+.fontf{
+	font-family: 'Pacifico', cursive;
+}
